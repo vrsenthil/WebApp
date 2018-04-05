@@ -30,7 +30,6 @@ color:white;
 	top: 550px;
     left: 450px;
 }
-
 </style>
 </head>
 <body>
